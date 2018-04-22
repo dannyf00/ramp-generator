@@ -1,0 +1,3 @@
+similarly, a relaxation oscillator can be built around a mcu, a resistor + a capacitor.
+
+RAMP_DLY controls the voltage swing.
